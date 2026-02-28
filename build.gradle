@@ -14,11 +14,6 @@ java {
     }
 }
 
-// build.gradle
-jar {
-    enabled = false
-}
-
 repositories {
     mavenCentral()
 }
